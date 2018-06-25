@@ -1,4 +1,4 @@
-def square(x):
+def square(z):
 	print(x ** 2)
 
-square(3)
+square(4)
