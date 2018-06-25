@@ -1,4 +1,6 @@
 def square(z):
-	print(x ** 2)
+	print(z ** 2)
 
+	""" This script will square the result
+	"""
 square(4)
